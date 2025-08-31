@@ -23,11 +23,11 @@ We trained the agent at different milestones and logged rewards & episode length
 
 ## 🎥 Training Videos
 
-At each milestone, we recorded the agent's performance:
+We recorded the agent's performance at key milestones: 50,000, 200,000, and 500,000 training steps.
 
-- **50,000 steps** → [Watch video](./videos/milestone_50000/ppo_lunar_50000-step-0-to-step-1000.mp4)  
-- **200,000 steps** → [Watch video](./videos/milestone_200000/ppo_lunar_200000-step-0-to-step-1000.mp4)  
-- **500,000 steps** → [Watch video](./videos/milestone_500000/ppo_lunar_500000-step-0-to-step-1000.mp4)  
+### 500,000 Steps - Peek at the Trained Model
+
+![500k Steps GIF](./videos/ppo_lunar_500000.gif)
 
 ---
 
