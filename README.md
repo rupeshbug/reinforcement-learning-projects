@@ -25,9 +25,9 @@ We trained the agent at different milestones and logged rewards & episode length
 
 At each milestone, we recorded the agent's performance:
 
-- **50,000 steps** → [Watch video](./videos/ppo_lunar_50000.mp4)  
-- **200,000 steps** → [Watch video](./videos/ppo_lunar_200000.mp4)  
-- **500,000 steps** → [Watch video](./videos/ppo_lunar_500000.mp4)  
+- **50,000 steps** → [Watch video](./videos/milestone_50000/ppo_lunar_50000.mp4)  
+- **200,000 steps** → [Watch video](./videos/milestone_200000/ppo_lunar_200000.mp4)  
+- **500,000 steps** → [Watch video](./videos/milestone_500000/ppo_lunar_500000.mp4)  
 
 ---
 
